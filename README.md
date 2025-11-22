@@ -23,7 +23,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 
 ### **Databases & Tools**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -32,36 +32,42 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-### **Machine Learning**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+## 🧰 Tools & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Relay App](https://img.shields.io/badge/Relay%20App-6200EE?style=for-the-badge&logo=android&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Forms](https://img.shields.io/badge/Google%20Forms-673AB7?style=for-the-badge&logo=googleforms&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+## 🧠 Machine Learning & Data Science
+
+### 🔧 Core Skills
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ### **Platforms**
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-### **AI Tools**
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white)
-![Bolt.ai](https://img.shields.io/badge/Bolt.ai-0D9488?style=for-the-badge)
-![Gamma.ai](https://img.shields.io/badge/Gamma.ai-7C3AED?style=for-the-badge)
+## 📌 APIs & AI Tools
 
+![OpenWeather API](https://img.shields.io/badge/OpenWeather_API-F15A24?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Bolt.ai](https://img.shields.io/badge/Bolt.ai-000000?style=for-the-badge&logo=thunderbird&logoColor=white)
+![Gamma.ai](https://img.shields.io/badge/Gamma.ai-6C63FF?style=for-the-badge&logo=sparkfun&logoColor=white)
 ---
 
 ## 📚 Education  
 **B.E. – Computer Engineering**  
 Government Engineering College, Bharuch  
-
----
-
-## 💼 Experience  
-
-### **AI Intern | CSRBOX (IBM SkillsBuild)**  
-📅 *2 July 2025 – 16 July 2025*  
-- Developed an **AI-based water quality prediction system**  
-- Used: *Python, Streamlit, Machine Learning, Relay App, Google Sheets, Google Forms, Google AI Studio*  
-- Built real-time water analysis & reporting workflows  
 
 ---
 
@@ -114,11 +120,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjana-gamit&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana-gamit&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sanjana-gamit&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana-gamit&langs_count=10&layout=compact&theme=radical)
