@@ -1,5 +1,15 @@
 <h1 align="center"> Hello! I'm Sanjana Gamit</h1>
-<h3 align="center">Computer Engineering @ GEC Bharuch</h3>
+<h3 align="center">Final Year Computer Engineering Student | Web Development | AI | ML</h3>
+
+---
+
+## 🌟 About Me
+- 🎓 Final Year CE @ GEC Bharuch  
+- 📱 Passionate about **Web development**  
+- 🤖 Exploring **AI, ML & Generative AI tools**  
+- 🌱 Currently learning: Generative Ai, Ai components & Cloud  
+- 🚀 Working on my internship project: **WaterBot – AI-Based Clean Water Predictor**  
+- ⚡ Fun fact: I break code just to fix it better 😄  
 
 ---
 
